@@ -1,4 +1,4 @@
-package com.biit.Shoppingbackend;
+package com.biit.shoppingbackend;
 
 import static org.junit.Assert.assertTrue;
 
